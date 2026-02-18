@@ -1,4 +1,4 @@
 <h1>Hi im blend<h1>
 <p1> im a beginner 
- Favourite Programming Languages : <a href="https://logowik.com/c-vector-logo-1-3398.html"><img src="https://logowik.com/content/uploads/images/911_c_logo.jpg"></a>
+ Favourite Programming Languages : <a href=#><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></a>
 <p1>
